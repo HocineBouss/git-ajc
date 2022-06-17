@@ -1,0 +1,10 @@
+- créez un dépôt git sur le projet "exoBranch" dans lequel vous aurez 3 fichier "fichier1", "fichier2", "fichier3"
+- créez un commit initial avec les fichiers vierges
+- pour travailler sur le fichier2 créez une branch de votre choix, même chose pour fichier3
+- ajouter du contenu dans chacun des fichier puis fusionner le tout avec master
+- créez une nouvelle branch "conflit"
+- ajouter du contenu dans le fichier1 depuis master
+- modifier le contenu du fichier1 depuis la branch conflit (faite le commit ici)
+- revenez sur master et faite un commit
+- puis fucionner conflit et master
+
