@@ -1,5 +1,5 @@
 <?php
 
-echo "j'ai terminé la connexion il y a 2min";
+echo "j'ai terminé la connexion à l'instant";
 
 ?>
